@@ -11,12 +11,12 @@ if (n > 0)
 {
 for (i = 0; i < n; i++)
 {
-putchar(95);
+_putchar(95);
 }
-putchar('\n');
+_putchar('\n');
 }
 else
 {
-putchar('\n');
+_putchar('\n');
 }
 }

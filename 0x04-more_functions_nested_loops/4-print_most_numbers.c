@@ -12,7 +12,7 @@ if ((number == 50) || (number == 52))
 {
 continue;
 }
-putchar(number);
+_putchar(number);
 }
-putchar(10);
+_putchar(10);
 }

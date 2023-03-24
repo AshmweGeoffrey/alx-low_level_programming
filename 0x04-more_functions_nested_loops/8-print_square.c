@@ -14,13 +14,13 @@ for (i = 0; i < size; i++)
 {
 for (k = 0; k < size; k++)
 {
-putchar(35);
+_putchar(35);
 }
-putchar('\n');
+_putchar('\n');
 }
 }
 else
 {
-putchar('\n');
+_putchar('\n');
 }
 }

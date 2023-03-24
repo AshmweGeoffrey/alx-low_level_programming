@@ -14,14 +14,14 @@ for (i = 0; i < n; i++)
 {
 for (b = 0; b < i; b++)
 {
-putchar(' ');
+_putchar(' ');
 }
-putchar(92);
-putchar('\n');
+_putchar(92);
+_putchar('\n');
 }
 }
 else
 {
-putchar('\n');
+_putchar('\n');
 }
 }
